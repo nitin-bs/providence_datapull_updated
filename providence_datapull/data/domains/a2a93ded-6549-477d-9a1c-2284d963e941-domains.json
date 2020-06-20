@@ -1,0 +1,30 @@
+{
+  "error": null, 
+  "result": [
+    {
+      "description": "", 
+      "id": "3b4201af68847fe5ad90f6b0", 
+      "name": "Holder"
+    }, 
+    {
+      "description": "", 
+      "id": "195ebb5847e08c1eca8368e4", 
+      "name": "IWX_DefaultDomain"
+    }, 
+    {
+      "description": "", 
+      "id": "a6119cc04bf56d334236f8b8", 
+      "name": "IWX_Examples_Customer360"
+    }, 
+    {
+      "description": "", 
+      "id": "0ec6688179126e8cd1d999c5", 
+      "name": "IWX_Examples_SalesAnalytics"
+    }, 
+    {
+      "description": "", 
+      "id": "6aee5acc45572837065ab012", 
+      "name": "IWX_Rashid"
+    }
+  ]
+}

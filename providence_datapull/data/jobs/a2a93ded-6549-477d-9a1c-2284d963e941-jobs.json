@@ -1,0 +1,1201 @@
+{
+  "error": null, 
+  "result": [
+    {
+      "durationInSeconds": 5270.3, 
+      "endedOn": "2020-06-18 15:20:09", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "f3f3ab90b56259fa1cf1248a"
+      }, 
+      "jobType": "source_structured_crawl", 
+      "startedOn": "2020-06-18 13:52:18", 
+      "status": "failed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 13:52:18"
+    }, 
+    {
+      "durationInSeconds": 363.8, 
+      "endedOn": "2020-06-18 13:58:25", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "b3a0fa1aaca565549e2bbee4"
+      }, 
+      "jobType": "source_structured_crawl", 
+      "startedOn": "2020-06-18 13:52:21", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 13:52:18"
+    }, 
+    {
+      "durationInSeconds": 358.8, 
+      "endedOn": "2020-06-18 13:58:21", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "f3ab3e5dfae97fd4505a32fe"
+      }, 
+      "jobType": "source_structured_crawl", 
+      "startedOn": "2020-06-18 13:52:23", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 13:52:18"
+    }, 
+    {
+      "durationInSeconds": 428.3, 
+      "endedOn": "2020-06-18 14:05:24", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "7673f992d0fd0d54fcdbd529"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 13:58:15", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 13:58:14"
+    }, 
+    {
+      "durationInSeconds": 418.2, 
+      "endedOn": "2020-06-18 14:05:19", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "b8937363458319cf5bfe8ae6"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 13:58:20", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 13:58:18"
+    }, 
+    {
+      "durationInSeconds": 194.7, 
+      "endedOn": "2020-06-18 15:39:50", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "1f98b3cbe10c9912ba088f2f"
+      }, 
+      "jobType": "source_structured_crawl", 
+      "startedOn": "2020-06-18 15:36:36", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 15:36:35"
+    }, 
+    {
+      "durationInSeconds": 379.7, 
+      "endedOn": "2020-06-18 15:42:58", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "dbe166892b03554f0a33a027"
+      }, 
+      "jobType": "source_structured_crawl", 
+      "startedOn": "2020-06-18 15:36:39", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 15:36:35"
+    }, 
+    {
+      "durationInSeconds": 389.5, 
+      "endedOn": "2020-06-18 15:43:09", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "7445f6de1840bab24b8cdb1a"
+      }, 
+      "jobType": "source_structured_crawl", 
+      "startedOn": "2020-06-18 15:36:40", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 15:36:35"
+    }, 
+    {
+      "durationInSeconds": 311.1, 
+      "endedOn": "2020-06-18 15:44:52", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "26924baadeaaa20132201c67"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 15:39:41", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 15:39:41"
+    }, 
+    {
+      "durationInSeconds": 254, 
+      "endedOn": "2020-06-18 15:47:07", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "f0628cd6fe11502424cb69b0"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 15:42:53", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 15:42:53"
+    }, 
+    {
+      "durationInSeconds": 457.7, 
+      "endedOn": "2020-06-18 15:50:32", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "1934af45be150ee4ad18b1db"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 15:42:54", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 15:42:53"
+    }, 
+    {
+      "durationInSeconds": 280.3, 
+      "endedOn": "2020-06-18 15:47:37", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "0e5f14ea79369e49e6dd173b"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 15:42:56", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 15:42:53"
+    }, 
+    {
+      "durationInSeconds": 570.1, 
+      "endedOn": "2020-06-18 16:00:02", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "ceb8b610199563a7e0585fca"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 15:50:32", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 15:50:31"
+    }, 
+    {
+      "durationInSeconds": 403, 
+      "endedOn": "2020-06-18 16:06:46", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "40303c37a51c7ffab66958fb"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 16:00:03", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 16:00:03"
+    }, 
+    {
+      "durationInSeconds": 9.1, 
+      "endedOn": "2020-06-18 18:09:15", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "5b27d9e720208c1f59cda3bc"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 18:09:06", 
+      "status": "completed", 
+      "submittedBy": "Charles McDonald", 
+      "submittedOn": "2020-06-18 18:09:06"
+    }, 
+    {
+      "durationInSeconds": 174.7, 
+      "endedOn": "2020-06-18 18:14:08", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "39386ad3d875fb119044dcec"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 18:11:14", 
+      "status": "completed", 
+      "submittedBy": "Charles McDonald", 
+      "submittedOn": "2020-06-18 18:11:13"
+    }, 
+    {
+      "durationInSeconds": 7.3, 
+      "endedOn": "2020-06-18 18:13:53", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "9f6ea478085e96c2319e48ab"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 18:13:45", 
+      "status": "completed", 
+      "submittedBy": "Jitender Nankani", 
+      "submittedOn": "2020-06-18 18:13:45"
+    }, 
+    {
+      "durationInSeconds": 208.1, 
+      "endedOn": "2020-06-18 18:18:58", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "4f82e70168af55a0500ad391"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 18:15:30", 
+      "status": "completed", 
+      "submittedBy": "Charles McDonald", 
+      "submittedOn": "2020-06-18 18:15:28"
+    }, 
+    {
+      "durationInSeconds": 197.6, 
+      "endedOn": "2020-06-18 18:19:19", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "d0995ebf495c8f20f7428aef"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 18:16:01", 
+      "status": "completed", 
+      "submittedBy": "Jitender Nankani", 
+      "submittedOn": "2020-06-18 18:16:01"
+    }, 
+    {
+      "durationInSeconds": 233.2, 
+      "endedOn": "2020-06-18 18:22:57", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "5b696c9df7e001f5b2841683"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 18:19:04", 
+      "status": "completed", 
+      "submittedBy": "Jitender Nankani", 
+      "submittedOn": "2020-06-18 18:17:01"
+    }, 
+    {
+      "durationInSeconds": 202.9, 
+      "endedOn": "2020-06-18 18:27:21", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "56e414094afa7c053da55ef2"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 18:23:58", 
+      "status": "completed", 
+      "submittedBy": "Jitender Nankani", 
+      "submittedOn": "2020-06-18 18:23:57"
+    }, 
+    {
+      "durationInSeconds": 7.8, 
+      "endedOn": "2020-06-18 18:54:11", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "34d20c574359bad0b3248d2b"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 18:54:03", 
+      "status": "completed", 
+      "submittedBy": "Niraj Vora", 
+      "submittedOn": "2020-06-18 18:54:03"
+    }, 
+    {
+      "durationInSeconds": 167, 
+      "endedOn": "2020-06-18 18:58:52", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "0e31751551b517549673711d"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 18:56:04", 
+      "status": "completed", 
+      "submittedBy": "Niraj Vora", 
+      "submittedOn": "2020-06-18 18:56:02"
+    }, 
+    {
+      "durationInSeconds": 254.7, 
+      "endedOn": "2020-06-18 19:05:16", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "bda72f19c45c1f20b5570efd"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 19:01:01", 
+      "status": "completed", 
+      "submittedBy": "Niraj Vora", 
+      "submittedOn": "2020-06-18 19:01:00"
+    }, 
+    {
+      "durationInSeconds": 9.5, 
+      "endedOn": "2020-06-18 19:02:05", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "a7f2729a51f1f6663b7947fa"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 19:01:55", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 19:01:55"
+    }, 
+    {
+      "durationInSeconds": 199.7, 
+      "endedOn": "2020-06-18 19:07:12", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "4d46f2a6bde7d6b80f055673"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 19:03:52", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 19:03:51"
+    }, 
+    {
+      "durationInSeconds": 296.7, 
+      "endedOn": "2020-06-18 19:11:20", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "8b97e18d6c51f4b306318dff"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 19:06:24", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 19:04:21"
+    }, 
+    {
+      "durationInSeconds": 7.7, 
+      "endedOn": "2020-06-18 19:07:43", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "365e45dd8d2d03478f61cd7f"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 19:07:36", 
+      "status": "completed", 
+      "submittedBy": "Buno Pati", 
+      "submittedOn": "2020-06-18 19:07:35"
+    }, 
+    {
+      "durationInSeconds": 436.4, 
+      "endedOn": "2020-06-18 19:29:13", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "16a7918aa7dac9b3084bfe8d"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 19:21:56", 
+      "status": "completed", 
+      "submittedBy": "Niraj Vora", 
+      "submittedOn": "2020-06-18 19:21:54"
+    }, 
+    {
+      "durationInSeconds": 8.2, 
+      "endedOn": "2020-06-18 19:28:45", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "bcdc4e7b57fb3ec76357c7a9"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 19:28:36", 
+      "status": "completed", 
+      "submittedBy": "Kamal Maheshwari", 
+      "submittedOn": "2020-06-18 19:28:35"
+    }, 
+    {
+      "durationInSeconds": 170.9, 
+      "endedOn": "2020-06-18 19:40:58", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "89325ebd92d007990925cf94"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 19:38:07", 
+      "status": "completed", 
+      "submittedBy": "Kamal Maheshwari", 
+      "submittedOn": "2020-06-18 19:38:07"
+    }, 
+    {
+      "durationInSeconds": 6.9, 
+      "endedOn": "2020-06-18 20:45:43", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "781f9c88cd5d5fc8dcaedd22"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 20:45:36", 
+      "status": "completed", 
+      "submittedBy": "Rashid Sajjad", 
+      "submittedOn": "2020-06-18 20:45:36"
+    }, 
+    {
+      "durationInSeconds": 232, 
+      "endedOn": "2020-06-18 21:16:16", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "4ab5754d62553d542333e8a4"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 21:12:24", 
+      "status": "completed", 
+      "submittedBy": "Kamal Maheshwari", 
+      "submittedOn": "2020-06-18 21:12:23"
+    }, 
+    {
+      "durationInSeconds": 269.5, 
+      "endedOn": "2020-06-18 21:18:38", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "f3a767f16e762c41fa105e45"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 21:14:09", 
+      "status": "completed", 
+      "submittedBy": "Buno Pati", 
+      "submittedOn": "2020-06-18 21:14:08"
+    }, 
+    {
+      "durationInSeconds": 239, 
+      "endedOn": "2020-06-18 21:24:43", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "3951e2fe77aca54786159baf"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 21:20:44", 
+      "status": "completed", 
+      "submittedBy": "Buno Pati", 
+      "submittedOn": "2020-06-18 21:20:43"
+    }, 
+    {
+      "durationInSeconds": 179.9, 
+      "endedOn": "2020-06-18 21:27:06", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "2b7264bb43bdbfb33433997f"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 21:24:06", 
+      "status": "completed", 
+      "submittedBy": "Rashid Sajjad", 
+      "submittedOn": "2020-06-18 21:24:05"
+    }, 
+    {
+      "durationInSeconds": 241.6, 
+      "endedOn": "2020-06-18 21:30:41", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "f349709dd64285340c80b40e"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 21:26:39", 
+      "status": "completed", 
+      "submittedBy": "Rashid Sajjad", 
+      "submittedOn": "2020-06-18 21:24:37"
+    }, 
+    {
+      "durationInSeconds": 8.8, 
+      "endedOn": "2020-06-18 21:35:16", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "2d1c3ec5f4f354d5c4e6836b"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 21:35:07", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 21:35:07"
+    }, 
+    {
+      "durationInSeconds": 169.4, 
+      "endedOn": "2020-06-18 21:39:43", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "a0b002950f671e11ffd3d1a7"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 21:36:54", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 21:36:53"
+    }, 
+    {
+      "durationInSeconds": 329.3, 
+      "endedOn": "2020-06-18 21:44:55", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "133299bcc36d0297eb47dbc6"
+      }, 
+      "jobType": "source_crawl", 
+      "startedOn": "2020-06-18 21:39:26", 
+      "status": "completed", 
+      "submittedBy": "Rashid Sajjad", 
+      "submittedOn": "2020-06-18 21:39:25"
+    }, 
+    {
+      "durationInSeconds": 8.9, 
+      "endedOn": "2020-06-18 21:44:54", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "5d8a4b4f2e974df29bda29a4"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 21:44:45", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 21:44:43"
+    }, 
+    {
+      "durationInSeconds": 198.1, 
+      "endedOn": "2020-06-18 21:51:52", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "67fd6cf73211f1c5ce62c190"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 21:48:34", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 21:48:34"
+    }, 
+    {
+      "durationInSeconds": 446.8, 
+      "endedOn": "2020-06-18 22:00:04", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "ebd19e93593c4939ed020a39"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 21:52:38", 
+      "status": "completed", 
+      "submittedBy": "Buno Pati", 
+      "submittedOn": "2020-06-18 21:52:36"
+    }, 
+    {
+      "durationInSeconds": 8.2, 
+      "endedOn": "2020-06-18 21:54:04", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "97cde9250a6f8d03e2374512"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 21:53:56", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 21:53:56"
+    }, 
+    {
+      "durationInSeconds": 183.2, 
+      "endedOn": "2020-06-18 21:58:07", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "f48a2ab1caed3d863969f807"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 21:55:04", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 21:55:03"
+    }, 
+    {
+      "durationInSeconds": 7.6, 
+      "endedOn": "2020-06-18 22:16:06", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "7ca2a0e02444a69f51e7c770"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 22:15:59", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 22:15:56"
+    }, 
+    {
+      "durationInSeconds": 181.9, 
+      "endedOn": "2020-06-18 22:19:47", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "505c983d90493646dbdeec0e"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 22:16:46", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 22:16:45"
+    }, 
+    {
+      "durationInSeconds": 9.2, 
+      "endedOn": "2020-06-18 22:25:56", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "b06d1370e1cd3dc72f223aab"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 22:25:46", 
+      "status": "completed", 
+      "submittedBy": "Salvatore Scalisi", 
+      "submittedOn": "2020-06-18 22:25:46"
+    }, 
+    {
+      "durationInSeconds": 8.4, 
+      "endedOn": "2020-06-18 22:26:51", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "80301d954e4e8da5dfd31169"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 22:26:42", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 22:26:40"
+    }, 
+    {
+      "durationInSeconds": 175, 
+      "endedOn": "2020-06-18 22:30:37", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "7e14faed0597ffea3418704c"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 22:27:42", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 22:27:41"
+    }, 
+    {
+      "durationInSeconds": 11.6, 
+      "endedOn": "2020-06-18 22:28:00", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "f05d1642f7631e3de968e0c4"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 22:27:48", 
+      "status": "completed", 
+      "submittedBy": "Salvatore Scalisi", 
+      "submittedOn": "2020-06-18 22:27:47"
+    }, 
+    {
+      "durationInSeconds": 165.7, 
+      "endedOn": "2020-06-18 22:37:28", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "dabe6fbd0ad3bd6cdec9cf06"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 22:34:42", 
+      "status": "completed", 
+      "submittedBy": "Salvatore Scalisi", 
+      "submittedOn": "2020-06-18 22:34:39"
+    }, 
+    {
+      "durationInSeconds": 12.6, 
+      "endedOn": "2020-06-18 22:34:58", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "643e01fb05a785d8d81d6324"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 22:34:45", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 22:34:44"
+    }, 
+    {
+      "durationInSeconds": 162.4, 
+      "endedOn": "2020-06-18 22:38:33", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "07e7e88aed6028eb460ac578"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 22:35:51", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 22:35:51"
+    }, 
+    {
+      "durationInSeconds": 7.9, 
+      "endedOn": "2020-06-18 22:38:20", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "ee8b1a76c811745f8ec89020"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 22:38:12", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 22:38:12"
+    }, 
+    {
+      "durationInSeconds": 174.4, 
+      "endedOn": "2020-06-18 22:42:54", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "cdf4b8836b871481890016d4"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 22:39:59", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-18 22:39:59"
+    }, 
+    {
+      "durationInSeconds": 7.5, 
+      "endedOn": "2020-06-18 22:42:29", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "67a6b4e0dd2bc3716496f8c1"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 22:42:21", 
+      "status": "completed", 
+      "submittedBy": "Arpan Dhandhania", 
+      "submittedOn": "2020-06-18 22:42:21"
+    }, 
+    {
+      "durationInSeconds": 272.2, 
+      "endedOn": "2020-06-18 22:48:00", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "36c2552adb5ab081b18aa0bd"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 22:43:28", 
+      "status": "completed", 
+      "submittedBy": "Salvatore Scalisi", 
+      "submittedOn": "2020-06-18 22:43:27"
+    }, 
+    {
+      "durationInSeconds": 236.8, 
+      "endedOn": "2020-06-18 22:50:43", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "d15fd157de4ee45d52ef3aab"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 22:46:47", 
+      "status": "completed", 
+      "submittedBy": "Arpan Dhandhania", 
+      "submittedOn": "2020-06-18 22:46:46"
+    }, 
+    {
+      "durationInSeconds": 8.5, 
+      "endedOn": "2020-06-18 22:51:01", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "3abdf5ff80622e8151754a69"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 22:50:53", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 22:50:52"
+    }, 
+    {
+      "durationInSeconds": 244.9, 
+      "endedOn": "2020-06-18 22:58:38", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "6fdd0b6e559df377b11d7e02"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 22:54:33", 
+      "status": "completed", 
+      "submittedBy": "Arpan Dhandhania", 
+      "submittedOn": "2020-06-18 22:54:32"
+    }, 
+    {
+      "durationInSeconds": 183.9, 
+      "endedOn": "2020-06-18 23:01:03", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "13303f056df42917994ecc9a"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 22:57:59", 
+      "status": "failed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 22:57:56"
+    }, 
+    {
+      "durationInSeconds": 9.3, 
+      "endedOn": "2020-06-18 23:02:20", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "ee691afb2a3bfaff678e43ba"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 23:02:11", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 23:02:10"
+    }, 
+    {
+      "durationInSeconds": 238.9, 
+      "endedOn": "2020-06-18 23:08:00", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "bea03fa8a999627ed82b715a"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 23:04:01", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 23:04:00"
+    }, 
+    {
+      "durationInSeconds": 7.5, 
+      "endedOn": "2020-06-18 23:07:23", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "82104ef1652185bfd2af9f44"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-18 23:07:16", 
+      "status": "completed", 
+      "submittedBy": "Nitin Kudikala", 
+      "submittedOn": "2020-06-18 23:07:15"
+    }, 
+    {
+      "durationInSeconds": 172.5, 
+      "endedOn": "2020-06-18 23:13:41", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "23f01260788805ba59476e4b"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 23:10:48", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 23:10:48"
+    }, 
+    {
+      "durationInSeconds": 431.5, 
+      "endedOn": "2020-06-18 23:18:12", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "c8b311b543988d9c86c709aa"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 23:11:00", 
+      "status": "completed", 
+      "submittedBy": "Salvatore Scalisi", 
+      "submittedOn": "2020-06-18 23:10:59"
+    }, 
+    {
+      "durationInSeconds": 361.4, 
+      "endedOn": "2020-06-18 23:17:19", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "bf12c0a129c7fd4671a78c1e"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 23:11:18", 
+      "status": "completed", 
+      "submittedBy": "Nitin Kudikala", 
+      "submittedOn": "2020-06-18 23:11:17"
+    }, 
+    {
+      "durationInSeconds": 218.8, 
+      "endedOn": "2020-06-18 23:20:47", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "2439d51ce6875ccbbacb5865"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-18 23:17:09", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-18 23:17:08"
+    }, 
+    {
+      "durationInSeconds": 574.9, 
+      "endedOn": "2020-06-18 23:30:01", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "854d8db41213b8a18a5c7dd7"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-18 23:20:26", 
+      "status": "completed", 
+      "submittedBy": "Arpan Dhandhania", 
+      "submittedOn": "2020-06-18 23:20:25"
+    }, 
+    {
+      "durationInSeconds": 647.2, 
+      "endedOn": "2020-06-19 00:48:05", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "3bf6e0fe77264b687ab8d059"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-19 00:37:17", 
+      "status": "completed", 
+      "submittedBy": "Kamal Maheshwari", 
+      "submittedOn": "2020-06-19 00:37:17"
+    }, 
+    {
+      "durationInSeconds": 394.3, 
+      "endedOn": "2020-06-19 01:53:14", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "d0bbb14bbb55b2e477b987cc"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-19 01:46:40", 
+      "status": "completed", 
+      "submittedBy": "Kevin Holder", 
+      "submittedOn": "2020-06-19 01:46:40"
+    }, 
+    {
+      "durationInSeconds": 7.5, 
+      "endedOn": "2020-06-19 04:21:20", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "6cc348e4b5f6d0d0ddf68c06"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-19 04:21:13", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 04:21:12"
+    }, 
+    {
+      "durationInSeconds": 162, 
+      "endedOn": "2020-06-19 04:25:46", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "81f3187cd6008e65b09c45cb"
+      }, 
+      "jobType": "source_cdc_merge", 
+      "startedOn": "2020-06-19 04:23:04", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 04:23:02"
+    }, 
+    {
+      "durationInSeconds": 195.3, 
+      "endedOn": "2020-06-19 05:12:45", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "62488e349ae161b650501be3"
+      }, 
+      "jobType": "source_crawl", 
+      "startedOn": "2020-06-19 05:09:29", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 05:09:29"
+    }, 
+    {
+      "durationInSeconds": 307.1, 
+      "endedOn": "2020-06-19 05:24:05", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "dc9e5af9a75edadc545da19b"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-19 05:18:58", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 05:18:57"
+    }, 
+    {
+      "durationInSeconds": 4.6, 
+      "endedOn": "2020-06-19 05:32:05", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "9797fc35e42d591f6b4821a3"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-19 05:32:01", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 05:31:58"
+    }, 
+    {
+      "durationInSeconds": 4.9, 
+      "endedOn": "2020-06-19 05:32:57", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "2c589e5cbdb19ebb8832e20b"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-19 05:32:52", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 05:32:52"
+    }, 
+    {
+      "durationInSeconds": 8, 
+      "endedOn": "2020-06-19 05:33:31", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "e3ea23c5c5fb0b116df957e1"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-19 05:33:23", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 05:33:22"
+    }, 
+    {
+      "durationInSeconds": 8.1, 
+      "endedOn": "2020-06-19 05:34:28", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "a508e70ad95deb074bf5e618"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-19 05:34:20", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 05:34:20"
+    }, 
+    {
+      "durationInSeconds": 7.4, 
+      "endedOn": "2020-06-19 05:46:21", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "3bca39bc25744f05a0c3e031"
+      }, 
+      "jobType": "fetch_metadata", 
+      "startedOn": "2020-06-19 05:46:14", 
+      "status": "completed", 
+      "submittedBy": "Arpan Dhandhania", 
+      "submittedOn": "2020-06-19 05:46:14"
+    }, 
+    {
+      "durationInSeconds": 227, 
+      "endedOn": "2020-06-19 06:03:40", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "44019e476d9c3f84f1c0b705"
+      }, 
+      "jobType": "source_crawl", 
+      "startedOn": "2020-06-19 05:59:53", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 05:59:52"
+    }, 
+    {
+      "durationInSeconds": 283.1, 
+      "endedOn": "2020-06-19 06:12:17", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "1cb8083806fcbb36cb12d889"
+      }, 
+      "jobType": "source_structured_cdc_merge", 
+      "startedOn": "2020-06-19 06:07:34", 
+      "status": "completed", 
+      "submittedBy": "Kamal Maheshwari", 
+      "submittedOn": "2020-06-19 06:07:33"
+    }, 
+    {
+      "durationInSeconds": 327.7, 
+      "endedOn": "2020-06-19 06:18:36", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "126255537d63fe2afcb87539"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-19 06:13:08", 
+      "status": "completed", 
+      "submittedBy": "Kamal Maheshwari", 
+      "submittedOn": "2020-06-19 06:12:06"
+    }, 
+    {
+      "durationInSeconds": 200, 
+      "endedOn": "2020-06-19 06:21:57", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "716445b98c9e571009c7dbb6"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-19 06:18:37", 
+      "status": "completed", 
+      "submittedBy": "Kamal Maheshwari", 
+      "submittedOn": "2020-06-19 06:18:36"
+    }, 
+    {
+      "durationInSeconds": 2.7, 
+      "endedOn": "2020-06-19 11:08:26", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "43982845094d0f2f6d48baf3"
+      }, 
+      "jobType": "source_test_connection", 
+      "startedOn": "2020-06-19 11:08:23", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 11:08:21"
+    }, 
+    {
+      "durationInSeconds": 6.1, 
+      "endedOn": "2020-06-19 11:09:27", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "aaa132eb228c32ac848cf31c"
+      }, 
+      "jobType": "delete_entity", 
+      "startedOn": "2020-06-19 11:09:21", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 11:09:20"
+    }, 
+    {
+      "durationInSeconds": 24.6, 
+      "endedOn": "2020-06-19 11:10:52", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "fb5c8dc5fef05dfcae23f11d"
+      }, 
+      "jobType": "pipeline_metadata", 
+      "startedOn": "2020-06-19 11:10:28", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 11:10:27"
+    }, 
+    {
+      "durationInSeconds": 23.7, 
+      "endedOn": "2020-06-19 11:14:59", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "2830d8bfb8a91ff2249763ce"
+      }, 
+      "jobType": "pipeline_metadata", 
+      "startedOn": "2020-06-19 11:14:35", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 11:14:32"
+    }, 
+    {
+      "durationInSeconds": 284.4, 
+      "endedOn": "2020-06-19 11:19:27", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "3b67740c54aebb4a12f2b8b0"
+      }, 
+      "jobType": "pipeline_build", 
+      "startedOn": "2020-06-19 11:14:42", 
+      "status": "completed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 11:14:42"
+    }, 
+    {
+      "durationInSeconds": 2.7, 
+      "endedOn": "2020-06-19 11:21:48", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "c29d3737a6f190f1b6cb135c"
+      }, 
+      "jobType": "delete_entity", 
+      "startedOn": "2020-06-19 11:21:46", 
+      "status": "failed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 11:21:45"
+    }, 
+    {
+      "durationInSeconds": 3, 
+      "endedOn": "2020-06-19 11:22:03", 
+      "jobId": {
+        "$type": "oid", 
+        "$value": "5b534da8dc45f467bf3c8856"
+      }, 
+      "jobType": "delete_entity", 
+      "startedOn": "2020-06-19 11:22:00", 
+      "status": "failed", 
+      "submittedBy": "Infoworks Admin", 
+      "submittedOn": "2020-06-19 11:21:59"
+    }
+  ]
+}
